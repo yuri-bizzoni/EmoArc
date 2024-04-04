@@ -1,0 +1,9 @@
+@inproceedings{f996fb290f3f488c9f30fd40add8f2e3,
+title = "EmotionArcs: Emotion Arcs for 9,000 Literary Texts",
+author = "Emily {\"O}hman and Yuri Bizzoni and Moreira, {Pascale Feldkamp} and Nielbo, {Kristoffer Laigaard}",
+year = "2024",
+language = "English",
+pages = "51–66",
+booktitle = "Proceedings of LaTeCH-CLfL 2024",
+publisher = "Association for Computational Linguistics",
+}
