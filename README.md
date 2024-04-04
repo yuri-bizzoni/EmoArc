@@ -8,7 +8,7 @@ This is the repository for the data for our paper "EmotionArcs: Emotion Arcs for
 
 It is a dataset comprising emotional arcs and intensities from over 9,000 English novels (1880-2000), assembled to understand the dynamics of emotions represented in text and how these emotions may influence a novel’s reception and perceived quality.
 
-<a href="https://github.com/yuri-bizzoni/EmoArc"><img src="https://github.com/yuri-bizzoni/EmoArc/raw/main/static/excerpt.png" width="250" align="right" /></a>
+<a href="https://github.com/yuri-bizzoni/EmoArc"><img src="https://github.com/yuri-bizzoni/EmoArc/raw/main/static/excerpt.png" width="1000" align="center" /></a>
 
 
 # 📖 Documentation
