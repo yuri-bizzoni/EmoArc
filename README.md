@@ -6,9 +6,7 @@ This is the repository for the data for our paper "EmotionArcs: Emotion Arcs for
 
 It is a dataset comprising emotional arcs and intensities from over 9,000 English novels (1880-2000), assembled to understand the dynamics of emotions represented in text and how these emotions may influence a novel’s reception and perceived quality.
 
-| BOOK_ID	| TITLE	| AUTH_LAST	| AUTH_FIRST | PUBL_DATE | 
-ARC_anger	| ARC_disgust	| ARC_fear	| ARC_anticipation	| ARC_surprise	| ARC_trust	| ARC_sadness	| ARC_joy	| 
-INTENS_anger	| INTENS_anticipation	| INTENS_disgust	| INTENS_fear	| INTENS_joy	| INTENS_sadness	| INTENS_surprise	| INTENS_trust |
+**| BOOK_ID	| TITLE	| AUTH_LAST	| AUTH_FIRST | PUBL_DATE | ARC_anger	| ARC_disgust	| ARC_fear	| ARC_anticipation	| ARC_surprise	| ARC_trust	| ARC_sadness	| ARC_joy	| INTENS_anger	| INTENS_anticipation	| INTENS_disgust	| INTENS_fear	| INTENS_joy	| INTENS_sadness	| INTENS_surprise	| INTENS_trust |**
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 
 
