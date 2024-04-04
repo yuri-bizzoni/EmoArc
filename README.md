@@ -14,5 +14,5 @@ It is a dataset comprising emotional arcs and intensities from over 9,000 Englis
 | 📚 **[Citation]**    | Bibtex citation.           |
 
 [Demo]: https://aclanthology.org/2024.latechclfl-1.7.pdf
-[Citation] : https://github.com/yuri-bizzoni/EmoArc/citation.txt
+[Citation]: https://github.com/yuri-bizzoni/EmoArc/citation.txt
 
