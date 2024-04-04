@@ -1,4 +1,4 @@
-<a href="https://github.com/yuri-bizzoni/EmoArc"><img src="https://github.com/yuri-bizzoni/EmoArc/static/arcs.png" width="175" height="175" align="right" /></a>
+<a href="https://github.com/yuri-bizzoni/EmoArc"><img src="https://github.com/yuri-bizzoni/EmoArc/main/static/arcs.png" width="175" height="175" align="right" /></a>
 
 # EmotionArcs
 
@@ -9,7 +9,7 @@ This is the repository for the data for our paper "EmotionArcs: Emotion Arcs for
 It is a dataset comprising emotional arcs and intensities from over 9,000 English novels (1880-2000), assembled to understand the dynamics of emotions represented in text and how these emotions may influence a novel’s reception and perceived quality.
 
 
-[![status](https://github.com/yuri-bizzoni/EmoArc)](https://github.com/yuri-bizzoni/EmoArc/static/excerpt.png)
+[![status](https://github.com/yuri-bizzoni/EmoArc)](https://github.com/yuri-bizzoni/EmoArc/main/static/excerpt.png)
 
 
 # 📖 Documentation
@@ -21,7 +21,7 @@ It is a dataset comprising emotional arcs and intensities from over 9,000 Englis
 | 📚 **[Citation]**           | Bibtex citation.                                                              |
 
 
-[Demo]: https://aclanthology.org/2024.latechclfl-1.7.pdf
+[Paper]: https://aclanthology.org/2024.latechclfl-1.7.pdf
 [Citation]: https://github.com/yuri-bizzoni/EmoArc/citation.txt
 [Notebook]: https://github.com/yuri-bizzoni/EmoArc/notebook.ipynb
 
