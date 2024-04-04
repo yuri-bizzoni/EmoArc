@@ -1,4 +1,4 @@
-# EmoArc
+# EmotionArcs
 
 [![status](https://upload.wikimedia.org/wikipedia/en/7/72/Association_for_Computational_Linguistics_logo.svg)](https://aclanthology.org/2024.latechclfl-1.7.pdf)
 
