@@ -13,6 +13,7 @@ It is a dataset comprising emotional arcs and intensities from over 9,000 Englis
 
 <br>
 
+
 ## ⚡ Data included
 
 - Data for 9,000 titles
@@ -20,7 +21,7 @@ It is a dataset comprising emotional arcs and intensities from over 9,000 Englis
 - Emotion intensities
 - Emotion arcs
 
-Available formats: `.xlsx, .json`
+Available formats: [.xlsx](https://docs.google.com/spreadsheets/d/1i5RkZAZcT7IGrl3gmeadNeVzuHPJ9Bwek283YrA0RdE/edit?usp=sharing), [.json](https://github.com/yuri-bizzoni/EmoArc/raw/main/data/)
 
 <br>
 
