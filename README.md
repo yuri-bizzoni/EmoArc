@@ -13,11 +13,23 @@ It is a dataset comprising emotional arcs and intensities from over 9,000 Englis
 ## ⚡ Data included
 
 - Author, title & year
+- NRC emotions (anger, disgust, fear, anticipation, surprise, trust, sadness, joy)
+- Dionary expanded for the literary domain using Word2Vec
 - Emotion intensities
 - Emotion arcs
 <br>
 
-<a href="https://github.com/yuri-bizzoni/EmoArc"><img src="https://github.com/yuri-bizzoni/EmoArc/raw/main/static/excerpt.png" width="100%" align="center" /></a>
+## 🔬 Example
+
+| BOOK_ID          |      TITLE      |   AUTH_FIRST       | AUTH_LAST | PUBL_DATE    |     ARC_ang         | ARC_fea        | ... | INTENS_ang |  INTENS_joy | ...    |
+| ---------------- | --------------- |------------------- |-----------|--------------|---------------------|----------------|-----|------------|-------------|--------|
+| 25732            |  Infinite Jest  |   David Foster     | Wallace   |      1996    |     0.758,0.901...  | 1.451,1.601... | ... | 70.44      |  102.37     | ...    |
+| 20636            |  Dune           |   Frank            | Herbert   |      1965    |     2.918,5.031...  | 4.164,4.231... | ... | 89.95      |  92.39      | ...    |
+| 22741            |  Beloved        |   Toni             | Morrison  |      1987    |     7.603,5.461...  | 7.806,6.235... | ... | 63.46      |  136.63     | ...    |
+| 21974            |  The Gunslinger |   Stephen          | King      |      1982    |     2.627,0.581...  | 3.308,1.764... | ... | 84.02      |  102.07     | ...    |
+| 86               |  The Portrait of a Lady |   Henry    | James     |      1881    |     0.792,4.212...  | 2.381,4.672... | ... | 40.59      |  169.74     | ...    |
+
+
 
 <br>
 
