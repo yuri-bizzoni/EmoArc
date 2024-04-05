@@ -1,4 +1,4 @@
-<a href="https://github.com/yuri-bizzoni/EmoArc"><img src="https://github.com/yuri-bizzoni/EmoArc/raw/main/static/long_arcs.png" width="100%" height="80" align="right" /></a>  
+<a href="https://github.com/yuri-bizzoni/EmoArc"><img src="https://github.com/yuri-bizzoni/EmoArc/raw/main/static/longer_arcs.png" width="100%" height="110" align="right" /></a>  
 <br>  
 <br>  
 
