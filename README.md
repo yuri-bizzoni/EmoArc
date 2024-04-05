@@ -51,7 +51,7 @@ Available formats: [.xlsx](https://docs.google.com/spreadsheets/d/1i5RkZAZcT7IGr
 
 [Paper]: https://aclanthology.org/2024.latechclfl-1.7.pdf
 [Citation]: https://github.com/yuri-bizzoni/EmoArc/raw/main/citation.txt
-[Notebook]: https://github.com/yuri-bizzoni/EmoArc/raw/main/notebook.ipynb
+[Notebook]: https://github.com/yuri-bizzoni/EmoArc/blob/226ed2a0735cfa439c67f2dfc346dc114a4207a4/notebook.ipynb
 
 
 
