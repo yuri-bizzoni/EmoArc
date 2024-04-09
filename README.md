@@ -47,7 +47,7 @@ Available formats: [.xlsx](https://docs.google.com/spreadsheets/d/1i5RkZAZcT7IGr
 | 👩‍💻 **[Notebook]**           | A notebook showing an example usage of the arcs.                              |
 | 📄 **[Paper]**              | The EmotionArcs paper.                                                        |
 | 📚 **[Citation]**           | Bibtex citation.                                                              | 
-
+| 🏆 **[The Chicago Corpus Data]**        | The Chicago Corpus (a linked dataset with additional data about the books).                            |
 
 [Paper]: https://aclanthology.org/2024.latechclfl-1.7.pdf
 [Citation]: https://github.com/yuri-bizzoni/EmoArc/raw/main/citation.txt
