@@ -52,6 +52,7 @@ Available formats: [.xlsx](https://docs.google.com/spreadsheets/d/1i5RkZAZcT7IGr
 [Paper]: https://aclanthology.org/2024.latechclfl-1.7.pdf
 [Citation]: https://github.com/yuri-bizzoni/EmoArc/raw/main/citation.txt
 [Notebook]: https://github.com/yuri-bizzoni/EmoArc/blob/55b0a0827824c49e0a17a0e7e5cb53fe9420f152/notebook.ipynb
+[The Chicago Corpus Data]: https://github.com/centre-for-humanities-computing/chicago_corpus
 
 
 
